@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: bisque;
+}
+
+.write-up {
+    border: 1px solid red;
+    text-align: center;
+}
